@@ -9,8 +9,6 @@ The JSON link used is:
     http://beta.json-generator.com/api/json/get/VyYCRsKwZ/
 
 dependencies
-    //RecyclerView API
-    compile 'com.android.support:recyclerview-v7:24.1.0'
     
     //CardView API
     compile 'com.android.support:cardview-v7:24.1.0'
@@ -21,3 +19,6 @@ dependencies
     
     //Picasso API
     compile 'com.squareup.picasso:picasso:2.5.2'
+    
+    //RecyclerView API
+    compile 'com.android.support:recyclerview-v7:24.1.0'
